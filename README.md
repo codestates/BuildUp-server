@@ -1,5 +1,5 @@
 # 📌 Build-Up
-<img src="https://drive.google.com/uc?export=view&id=1l-cvsOltC1QdAuz6pXDh6t59oDi4orUH" width=300px/>
+<img src="https://user-images.githubusercontent.com/67426853/116517095-69d07100-a909-11eb-98a5-04b7936e982c.jpg" width=300px/>
 
 #### Build-Up은 학생, 직장인, 개발자 등 다양한 사람들의 일정 관리를 도주는 서비스입니다.
 
