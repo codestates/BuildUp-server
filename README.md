@@ -25,7 +25,7 @@ Build-Up은 일정을 관리하는 서비스를 제공하며 하루하루가 쌓
 # :bulb: Architecture
 
 ## Client-side Flow chart
-<img src = "https://drive.google.com/uc?export=view&id=1ryr2keaGKPazvPOdvma91FyPp-QHNyiX">
+<img src = "https://user-images.githubusercontent.com/67426853/116517651-393d0700-a90a-11eb-9f28-11f52cab821d.jpg">
 
 ## Server-side Flow chart
 ![BuildUp (1)](https://user-images.githubusercontent.com/67426853/112517405-9dd0e780-8ddb-11eb-811c-b74607ade6b1.jpg)
